@@ -62,9 +62,24 @@ Backend:
 - Dashboard fetches /auth/me with token
 - If token is valid → show user details
 
-Screenshots
+# Screenshots
+Signup Page
+<img width="1896" height="651" alt="image" src="https://github.com/user-attachments/assets/c9af7a65-d336-4e26-9b2e-1d9a2576c8b0" />
 
+Validation 
+<img width="1906" height="694" alt="image" src="https://github.com/user-attachments/assets/9e648888-3532-49bf-adbe-daddbd846461" />
 
+Already exits Validation
+<img width="1910" height="657" alt="image" src="https://github.com/user-attachments/assets/a1e7c235-f9e8-418f-bad9-27bacf0e5cab" />
+
+Login Page
+<img width="1904" height="553" alt="image" src="https://github.com/user-attachments/assets/937e7f49-636f-4004-9a2c-d86698e74f22" />
+
+Password Validation
+<img width="1918" height="528" alt="image" src="https://github.com/user-attachments/assets/54897644-dcea-4bec-ba1d-c1217a303e68" />
+
+Dashboard Page
+<img width="1914" height="384" alt="image" src="https://github.com/user-attachments/assets/e291ed7d-0a95-4175-8de4-b1e55a48cd04" />
 
 # Future Improvements
 
